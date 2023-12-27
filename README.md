@@ -1,33 +1,34 @@
-# ODD23-24-WT-Ex:09 JavaScript
-Name: SUNIL KUMAR T
-Reg.No: 212223240164
-PROGRAM-1:
-AIM:
+# Ex:09 JavaScript
+# Name: SUNIL KUMAR T
+# Reg.No: 212223240164
+# PROGRAM-1:
+# AIM:
 To create a form with java script code to calculate electricity bill.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as calc().
 
-Step-4:
+## Step-4:
 Give the necessary input that is required for calculating the electricity bill like var prev,curr,units,amt. Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Give the necessary condition using if-else condition. Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+# PROGRAM:
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -78,39 +79,41 @@ PROGRAM:
 
 </body>
 </html>
-OUTPUT:
-out1
+```
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 030425.png>)
 
-RESULT:
+# RESULT:
 Thus the java code executed to calculate the electricity bill.
 
-PROGRAM-2:
-AIM:
+# PROGRAM-2:
+# AIM:
 To create a form with java script code to compute the factorial of a given number without recursion.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as show().
 
-Step-4:
+## Step-4:
 Give the necessary input that is require to compute the factorial like var i, n, fact. Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Using for-loop condition calculate the factorial. Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+# PROGRAM:
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,39 +155,41 @@ PROGRAM:
 
 </body>
 </html>
-OUTPUT:
-out2
+```
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 031228.png>)
 
-RESULT:
+# RESULT:
 Thus the java code executed to compute the factorial of a given number without recursion.
 
-PROGRAM-3:
-AIM:
+# PROGRAM-3:
+# AIM:
 To construct a JavaScript code to generate ‘N’ prime numbers.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as show().
 
-Step-4:
+## Step-4:
 Give the necessary input that is required to construct a java code to generate ‘N’ prime numbers . Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Using for-loop condition generate ‘N’ prime numbers. Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+# PROGRAM:
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -234,39 +239,42 @@ PROGRAM:
 
 </body>
 </html>
-OUTPUT:
-out3
+```
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 031551.png>)
 
-RESULT:
+# RESULT:
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
 
-PROGRAM-4:
-AIM:
+# PROGRAM-4:
+# AIM:
 To construct a JavaScript program to implement a simple calculator.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as function f1() for addition, function f2() for subtraction, function f3() for multiplication, function f4() for division, function f5() for sin(a), function f6() for cos(a) ,function f7() for tan(a), function f8() for a*a , function f9() for clear.
 
-Step-4:
+## Step-4:
 Give the necessary input that is required to implement a simple calculator. Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+## PROGRAM:
+```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -329,39 +337,42 @@ PROGRAM:
 
 </body>
 </html>
-OUTPUT:
-out4
+```
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 031946.png>)
+![Alt text](<Screenshot 2023-12-28 031925.png>)
 
-RESULT:
+# RESULT:
 Thus the java code executed to implement a simple calculator.
 
-PROGRAM-5:
-AIM:
+# PROGRAM-5:
+# AIM:
 To design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as function f1() for bold, function f2() for italics, function f3() for uppercase, function f4() for lowercase, function f5() for capitalize, function f6() for right ,function f7() for left, function f8() for center, function f9() for clear formatting.
 
-Step-4:
+## Step-4:
 Give the necessary input that is required to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations. Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+# PROGRAM:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -426,39 +437,42 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
-OUTPUT:
-out5
+```
 
-RESULT:
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 032502.png>)
+
+# RESULT:
 Thus the java code executed to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
 
-PROGRAM-6:
-AIM:
+# PROGRAM-6:
+# AIM:
 To design a JavaScript program which displays error messages when a field in form is entered incorrectly.
 
-PROCEDURE:
-Step-1:
+# PROCEDURE:
+## Step-1:
 Start define the document as HTML.
 
-Step-2:
+## Step-2:
 Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Step-3:
+## Step-3:
 Define the function for the program as validate().
 
-Step-4:
+## Step-4:
 Give the necessary input that is required to design a JavaScript program which displays error messages when a field in form is entered incorrectly.Get the number for input using document.getElementById.
 
-Step-5:
+## Step-5:
 Using for-loop condition and if-else condition displays error messages when a field in form is entered incorrectly. Close the script and head tags.
 
-Step-6:
+## Step-6:
 Give the input type in the body of the HTML.
 
-Step-7:
+## Step-7:
 End the HTML structure.
 
-PROGRAM:
+# PROGRAM:
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -539,8 +553,8 @@ PROGRAM:
 
 </body>
 </html>
-OUTPUT:
-out6
-
-Result:
+```
+# OUTPUT:
+![Alt text](<Screenshot 2023-12-28 032858.png>)
+# Result:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
